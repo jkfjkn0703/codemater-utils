@@ -6,6 +6,7 @@ A lightweight, practical Java utility library providing common helper functions 
 - **StringUtils**: String utility methods (isBlank, capitalize, join, etc.)
 - **MathUtils**: Mathematical utilities (prime check, GCD calculator, etc.)
 - **FileUtils**: File I/O operations (read, write, copy)
+- **DateUtils**: Date and time utilities (format, parse, etc.)
 - [More features coming soon...]
 
 ## Quick Start
